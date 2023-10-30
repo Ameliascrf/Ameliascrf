@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700B8&random=false&width=435&lines=Hi+There%2C+My+Name+Is+Amelia+Lisa)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F700B8&random=false&width=435&lines=Hi+There+My+Name+Is+Ameliascrf)](https://git.io/typing-svg)
  ![](https://komarev.com/ghpvc/?username=Ameliascrf&color=green)<p>
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <img align="right" alt="GIF" height="170px" src="https://camo.githubusercontent.com/19de67baa6e5a6594c50a400d466144108a616b0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" />
